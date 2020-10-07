@@ -6,6 +6,7 @@ date: 2020-10-07 19:30
 description: What I'm trying to do is to check if I make changes to the Git repo
   via Netlify, will it also be reflected on another server? That would be
   interesting.
+featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
 This is the part that I find hard to write about.
 
